@@ -4,7 +4,7 @@ This is a program uses font-end and back-end Python tools, to add a Course in a 
 Concepts included in this program is:
 - OOP
 - Functions
-- Connection DataBase whith Pyhton
+- Connection DataBase with Pyhton
 - MySQL
 - Front-end and Back-end Python
 - Tkinter 
